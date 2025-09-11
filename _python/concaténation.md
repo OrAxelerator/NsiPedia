@@ -1,3 +1,8 @@
+---
+title: cours concatenation
+layout: default
+---
+
 # 🐍 - Python  
 
 ## **La concaténation en python**

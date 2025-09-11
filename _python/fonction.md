@@ -1,3 +1,8 @@
+---
+title: cours fonction
+layout: default
+---
+
 # 🐍 - Python  
 
 ## **La Spécification de fonction**
