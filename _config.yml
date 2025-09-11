@@ -1,0 +1,16 @@
+title: "NsiPédia"
+theme: minima
+
+markdown: kramdown
+
+
+header_pages:
+  - README.md
+  - index.md
+
+
+collections:
+  cours:
+    output: true                
+    permalink: /python/:name
+
