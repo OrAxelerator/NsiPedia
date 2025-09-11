@@ -10,7 +10,7 @@ header_pages:
 
 
 collections:
-  cours:
+  python:
     output: true                
     permalink: /python/:name
 
