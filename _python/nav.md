@@ -5,6 +5,6 @@ layout: default
 
 # 🐍 - Python  
 
-* [fonction](/_python/fonction.md)
-* [concaténation](/_python/concaténation.md)
+* [fonction](/python/fonction.md)
+* [concaténation](/python/concaténation.md)
 
