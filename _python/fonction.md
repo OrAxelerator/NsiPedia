@@ -25,5 +25,5 @@ def reduc(prix, taux):
 ```
 ---
 
-[⬅ Retour à la page Python](NsiPedia/python/nav)
+[⬅ Retour à la page Python](/NsiPedia/python/nav)
 

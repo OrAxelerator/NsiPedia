@@ -6,4 +6,5 @@ layout: default
 # 🐍 - Python  
 * [Fonction](fonction)
 * [Concaténation](concaténation)
+* [Module random](random)
 
