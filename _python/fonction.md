@@ -25,3 +25,5 @@ def reduc(prix, taux):
 ```
 ---
 
+[⬅ Retour à la page Python](/python/nav)
+

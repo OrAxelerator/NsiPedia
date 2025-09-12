@@ -61,3 +61,7 @@ TypeError: can only concatenate str (not "int") to str
 >>> print("ha" / 3)
 TypeError: can only concatenate str (not "int") to str
 ```
+
+---
+
+[⬅ Retour à la page Python](/python/nav)
