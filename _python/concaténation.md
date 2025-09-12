@@ -64,4 +64,4 @@ TypeError: can only concatenate str (not "int") to str
 
 ---
 
-[⬅ Retour à la page Python](/python/nav)
+[⬅ Retour à la page Python](/NsiPedia/python/nav)

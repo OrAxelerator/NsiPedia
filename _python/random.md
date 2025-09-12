@@ -32,4 +32,4 @@ Il existe encore plein d'autre fonction mais qui sont utiles que dans certain ca
 
 ---
 
-[⬅ Retour à la page Python](/python/nav)
+[⬅ Retour à la page Python](NsiPedia/python/nav)
