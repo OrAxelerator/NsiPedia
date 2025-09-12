@@ -21,7 +21,7 @@ def reduc(prix, taux):
     in: prix: un prix, taux: un taux de reduction en % (30 pour 30% par ex)
     out: le prix après réduction
     """
-    return p * (1 - t / 100)
+    return prix * (1 - taux / 100)
 ```
 ---
 

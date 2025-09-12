@@ -16,7 +16,7 @@ Un moyen de publier les cours en .md et que tout le monde puisse modifier.
 │   ├── fonction.md
 │   └── concaténation.md
 │
-├── index.md                # page d'accueil de 
+├── index.md                # page d'accueil 
 ├── README.md
 ````
 Le "_" indique à Jekyll que le dossier ou fichier est spécial et doit être traité pour le site.
