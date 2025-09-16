@@ -31,3 +31,7 @@ print("tu es né en ", (annee - age))
 ```
 Le programme récupère bien l'âge de l'utilisateur et calcule sa date de naissance.
 (La fonction int() transforme ce qu'elle a entre parenthèses en nombre)
+
+--- 
+
+[⬅ Retour à la page Python](/NsiPedia/python/nav)
