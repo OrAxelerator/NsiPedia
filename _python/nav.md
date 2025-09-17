@@ -8,4 +8,5 @@ layout: default
 * [Concaténation](concaténation)
 * [Fonction input()](input)
 * [Module random](random)
+* [Le signe égal](Le_signe_egal)
 
