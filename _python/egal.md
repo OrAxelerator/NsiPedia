@@ -1,5 +1,5 @@
 ---
-title: La fonction input()
+title: Le signe égal
 layout: default
 ---
 
