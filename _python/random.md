@@ -24,7 +24,7 @@ Le module `random` possède plusieurs fonctions comme :
 | `random.randint(a, b)` | Génère un entier aléatoire **inclus** entre `a` et `b`. |
 | `random.choice(sequence)` | Choisit un élément au hasard dans une séquence : `liste`, `tuple`, `chaînes de caractères`. |
 | `random.sample(population, k)` | Choisit `k` éléments dans `population` et ne peut pas prendre deux fois le même élément. |
-| `random.shuffle(x)`      | Mélange la séquence `x` de manière aléatoire. |
+| `random.shuffle(x)`      | Mélange la séquence `x` de manière aléatoire (ne marche pas pour tupple). |
 
 Devant chaque fonction, on ajoute `random.` pour que Python puisse retrouver la fonction.
 
